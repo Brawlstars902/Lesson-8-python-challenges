@@ -1,0 +1,5 @@
+x=int(input('Please enter a number.\n'))
+y=int(input("Please enter a second number.\n"))
+z=int(input('Please enter a third number.\n'))
+ans=x*(y+z)
+print(x,'x(',y,'+',z,')','=',ans)
